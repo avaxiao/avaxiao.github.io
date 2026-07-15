@@ -1,0 +1,103 @@
+{
+    "":{
+        "title": "",
+        "author": "",
+        "booktitle": "",
+        "image": "",
+        "year": 202,
+        "tags": [""],
+        "badge": "",
+        "url": "",
+        "code": "",
+        "showhome": false,
+        "highlight": false,
+        "webpage": "",
+        "video": "",
+        "poster": "" ,
+        "abstract": "",
+        "tlrd": ""
+    },
+    "xiao2026retoken":{
+        "title": "ReToken: One Token to Improve Vision–Language Models for Visual Retrieval",
+        "author": "<b>Yao Xiao</b>, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem",
+        "image": "/publications/xiao2026retoken.pdf",
+        "year": 2026,
+        "booktitle": "Under Review",
+        "tags": ["video", "multimodal"],
+        "highlight": true,
+        "showhome": false,
+        "url": "https://arxiv.org/abs/2505.23769",
+        "code": "https://github.com/avaxiao/TextRegion",
+        "tlrd":"TBD"
+    },
+    "xiao2025textregion":{
+        "title": "TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models",
+        "author": "<b>Yao Xiao</b>, Qiqian Fu, Heyi Tao, Yuqun Wu, Zhen Zhu, Derek Hoiem",
+        "image": "/publications/xiao2025textregion.png",
+        "year": 2025,
+        "booktitle": "<b>TMLR</b>, 2025. <span style='font-style: normal;'><font color=#ff4d88>J2C certification (top 10%).</font></span>",
+        "tags": ["multimodal"],
+        "highlight": true,
+        "showhome": true,
+        "url": "https://arxiv.org/abs/2505.23769",
+        "code": "https://github.com/avaxiao/TextRegion",
+        "badge": "🏅 TMLR 2025",
+        "tlrd":"A simple, training-free approach to get region tokens directly comparable to text embeddings, achieving state-of-the-art zero-shot region-level understanding."
+    },
+    "zhen2025how":{
+        "title": "How to Teach Large Multimodal Models New Skills?",
+        "author": "Zhen Zhu, Yiming Gong, <b>Yao Xiao</b>, Yaoyao Liu, Derek Hoiem",
+        "image": "/publications/zhen2025how.png",
+        "year": 2025,
+        "booktitle": "Under Review.",
+        "tags": ["multimodal"],
+        "url": "https://arxiv.org/abs/2510.08564",
+        "code": "https://github.com/jessemelpolio/LMM_CL"
+    },
+    "shlapentokh2024region":{
+        "title": "Region-Based Representations Revisited",
+        "author": "Michal Shlapentokh-Rothman<b><font color=red>*</font></b>, Ansel Blume<b><font color=red>*</font></b>, <b>Yao Xiao</b>, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem.",
+        "booktitle": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024.",
+        "image": "/publications/shlapentokh2024region.jpg",
+        "year": 2024,
+        "url": "https://arxiv.org/abs/2402.02352",
+        "code": "https://github.com/michalsr/regions",
+        "webpage": "https://regionreps.web.illinois.edu",
+        "video": "https://www.youtube.com/watch?v=_xth4y3sOmw",
+        "tags": ["video"],
+        "badge": "CVPR 2024"
+    },
+    "zhen2024continual":{
+        "title": "Continual Learning in Open-vocabulary Classification with Complementary Memory Systems",
+        "author": "Zhen Zhu, Weijie Lyu, <b>Yao Xiao</b>, Derek Hoiem",
+        "booktitle": "Transactions on Machine Learning Research (<b>TMLR</b>), October 2024.",
+        "image": "/publications/zhen2024continual.png",
+        "year": 2024,
+        "tags": ["others"],
+        "badge": "TMLR 2024",
+        "url": "https://arxiv.org/abs/2307.01430",
+        "code": "https://github.com/jessemelpolio/TreeProbe"
+    },
+    "xu2023patch":{
+        "title": "PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch",
+        "author": "Ke Xu<b><font color=red>*</font></b>, <b>Yao Xiao<font color=red>*</font></b>, Zhaoheng Zheng, Kaijie Cai, Ram Nevatia.",
+        "booktitle": "IEEE/CVF Winter Conference on Applications of Computer Vision (<b>WACV</b>), 2023.",
+        "image": "/publications/xu2023patch.png",
+        "year": 2023,
+        "url": "https://arxiv.org/abs/2207.01795",
+        "code": "https://github.com/Elysia200207/PatchZero",
+        "tags": ["others"],
+        "badge": "WACV 2023"
+    },
+    "ge2022contributions":{
+        "title": "Contributions of Shape, Texture, and Color in Visual Recognition",
+        "author": "<b>Yao Xiao<font color=red>*</font></b>, Yunhao Ge<b><font color=red>*</font></b>, Zhi Xu, Xingrui Wang, Laurent Itti.",
+        "booktitle": "European Conference on Computer Vision (<b>ECCV</b>), 2022.",
+        "image": "/publications/ge2022contributions.png",
+        "year": 2022,
+        "badge": "ECCV 2022",
+        "tags": ["explainableAI"],
+        "url": "https://arxiv.org/abs/2207.09510",
+        "code": "https://github.com/gyhandy/Humanoid-Vision-Engine"
+    }
+}
