@@ -20,15 +20,37 @@
     "xiao2026retoken":{
         "title": "ReToken: One Token to Improve Vision–Language Models for Visual Retrieval",
         "author": "<b>Yao Xiao</b>, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem",
-        "image": "/publications/xiao2026retoken.pdf",
+        "image": "/publications/xiao2026retoken.png",
         "year": 2026,
         "booktitle": "Under Review",
         "tags": ["video", "multimodal"],
         "highlight": true,
-        "showhome": false,
+        "showhome": true,
+        "url": "https://arxiv.org/abs/2607.28627",
+        "code": "https://github.com/avaxiao/ReToken",
+        "tlrd":"Attention tells you where a VLM looks, so shouldn't it tell you which frames matter? It doesn't: the retrieval signal lives in the value space, and a single learned token is enough to read it out."
+    },
+    "wu2026r2r":{
+        "title": "Render to Reason: Novel-View Semantic Prediction Improves Spatial Understanding in VLMs",
+        "author": "Yuqun Wu, <b>Yao Xiao</b>, Chuhang Zou, Shenlong Wang, Derek Hoiem",
+        "image": "/publications/wu2026r2r.png",
+        "year": 2026,
+        "booktitle": "Under Review",
+        "tags": ["multimodal"],
         "url": "https://arxiv.org/abs/2505.23769",
-        "code": "https://github.com/avaxiao/TextRegion",
-        "tlrd":"TBD"
+        "code": "https://github.com/avaxiao/TextRegion"
+    },
+    "zhen2025how":{
+        "title": "How to Teach Large Multimodal Models New Skills?",
+        "author": "Zhen Zhu, Yiming Gong, <b>Yao Xiao</b>, Yaoyao Liu, Derek Hoiem",
+        "image": "/publications/zhen2026how.png",
+        "year": 2026,
+        "booktitle": "<b>ECCV</b>, 2026. <span style='font-style: normal;'><font color=#ff4d88>Oral.</font></span>",
+        "tags": ["multimodal"],
+        "showhome": true,
+        "badge": "ECCV 2026🏅Oral",
+        "url": "https://arxiv.org/abs/2510.08564",
+        "code": "https://github.com/jessemelpolio/LMM_CL"
     },
     "xiao2025textregion":{
         "title": "TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models",
@@ -41,42 +63,8 @@
         "showhome": true,
         "url": "https://arxiv.org/abs/2505.23769",
         "code": "https://github.com/avaxiao/TextRegion",
-        "badge": "🏅 TMLR 2025",
+        "badge": "TMLR 2025🏅J2C",
         "tlrd":"A simple, training-free approach to get region tokens directly comparable to text embeddings, achieving state-of-the-art zero-shot region-level understanding."
-    },
-    "zhen2025how":{
-        "title": "How to Teach Large Multimodal Models New Skills?",
-        "author": "Zhen Zhu, Yiming Gong, <b>Yao Xiao</b>, Yaoyao Liu, Derek Hoiem",
-        "image": "/publications/zhen2025how.png",
-        "year": 2025,
-        "booktitle": "Under Review.",
-        "tags": ["multimodal"],
-        "url": "https://arxiv.org/abs/2510.08564",
-        "code": "https://github.com/jessemelpolio/LMM_CL"
-    },
-    "shlapentokh2024region":{
-        "title": "Region-Based Representations Revisited",
-        "author": "Michal Shlapentokh-Rothman<b><font color=red>*</font></b>, Ansel Blume<b><font color=red>*</font></b>, <b>Yao Xiao</b>, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem.",
-        "booktitle": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024.",
-        "image": "/publications/shlapentokh2024region.jpg",
-        "year": 2024,
-        "url": "https://arxiv.org/abs/2402.02352",
-        "code": "https://github.com/michalsr/regions",
-        "webpage": "https://regionreps.web.illinois.edu",
-        "video": "https://www.youtube.com/watch?v=_xth4y3sOmw",
-        "tags": ["video"],
-        "badge": "CVPR 2024"
-    },
-    "zhen2024continual":{
-        "title": "Continual Learning in Open-vocabulary Classification with Complementary Memory Systems",
-        "author": "Zhen Zhu, Weijie Lyu, <b>Yao Xiao</b>, Derek Hoiem",
-        "booktitle": "Transactions on Machine Learning Research (<b>TMLR</b>), October 2024.",
-        "image": "/publications/zhen2024continual.png",
-        "year": 2024,
-        "tags": ["others"],
-        "badge": "TMLR 2024",
-        "url": "https://arxiv.org/abs/2307.01430",
-        "code": "https://github.com/jessemelpolio/TreeProbe"
     },
     "xu2023patch":{
         "title": "PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch",
