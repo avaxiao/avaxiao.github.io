@@ -45,10 +45,10 @@
         "author": "Zhen Zhu, Yiming Gong, <b>Yao Xiao</b>, Yaoyao Liu, Derek Hoiem",
         "image": "/publications/zhen2026how.png",
         "year": 2026,
-        "booktitle": "<b>ECCV</b>, 2026. <span style='font-style: normal;'><font color=#ff4d88>Oral.</font></span>",
+        "booktitle": "<b>ECCV</b>, 2026. <span style='font-style: normal;'><font color=#ff4d88>Spotlight.</font></span>",
         "tags": ["multimodal"],
         "showhome": true,
-        "badge": "ECCV 2026🏅Oral",
+        "badge": "ECCV 2026🏅Spotlight",
         "url": "https://arxiv.org/abs/2510.08564",
         "code": "https://github.com/jessemelpolio/LMM_CL"
     },
