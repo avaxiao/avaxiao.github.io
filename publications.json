@@ -18,7 +18,7 @@
         "tlrd": ""
     },
     "xiao2026retoken":{
-        "title": "ReToken: One Token to Improve Vision–Language Models for Visual Retrieval",
+        "title": "ReToken: Improving Long-Context VLMs with Visual Retrieval Token",
         "author": "<b><u>Yao Xiao</u></b>, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem",
         "image": "/publications/xiao2026retoken.png",
         "year": 2026,
@@ -34,14 +34,14 @@
     "wu2026r2r":{
         "title": "Novel-View Semantic Prediction Improves Spatial Understanding in VLMs",
         "author": "Yuqun Wu, <b><u>Yao Xiao</u></b>, Chuhang Zou, Shenlong Wang, Derek Hoiem",
-        "image": "/publications/wu2026r2r.png",
+        "image": "/publications/wu2027r2r.png",
         "year": 2027,
         "tags": ["multimodal"],
         "showhome": false,
-        "booktitle": "NeurIPS, 2026.",
-        "badge": "NeurIPS 2026",
-        "url": "https://arxiv.org/abs/2505.23769",
-        "code": "https://github.com/avaxiao/TextRegion"
+        "booktitle": "ICLR, 2027.",
+        "badge": "ICLR 2027",
+        "url": "https://arxiv.org/abs/2610.05417",
+        "code": "https://github.com/yuqunw/R2R"
     },
     "zhen2025how":{
         "title": "How to Teach Large Multimodal Models New Skills?",
@@ -60,7 +60,7 @@
         "author": "<b><u>Yao Xiao</u></b>, Qiqian Fu, Heyi Tao, Yuqun Wu, Zhen Zhu, Derek Hoiem",
         "image": "/publications/xiao2025textregion.png",
         "year": 2025,
-        "booktitle": "TMLR, 2025. <span style='font-style: normal;'><font color=#ff4d88>J2C certification (top 10%).</font></span>",
+        "booktitle": "TMLR, 2025. <span style='font-style: normal;'><font color=#ff4d88>J2C certification, also presented at NeurIPS 2026.</font></span>",
         "tags": ["multimodal"],
         "highlight": true,
         "showhome": true,
