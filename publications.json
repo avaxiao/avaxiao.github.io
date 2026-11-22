@@ -1,0 +1,73 @@
+{
+    "":{
+        "title": "",
+        "author": "",
+        "booktitle": "",
+        "image": "",
+        "year": 202,
+        "tags": [""],
+        "badge": "",
+        "url": "",
+        "code": "",
+        "showhome": false,
+        "highlight": false,
+        "webpage": "",
+        "video": "",
+        "poster": "" ,
+        "abstract": "",
+        "tlrd": ""
+    },
+    "wu2027r2r":{
+        "title": "Novel-View Semantic Prediction Improves Spatial Understanding in VLMs",
+        "author": "Yuqun Wu, <b><u>Yao Xiao</u></b>, Chuhang Zou, Shenlong Wang, Derek Hoiem",
+        "image": "/publications/wu2027r2r.png",
+        "year": 2027,
+        "tags": ["multimodal"],
+        "showhome": false,
+        "booktitle": "Under Review",
+        "url": "https://arxiv.org/abs/2610.05417",
+        "code": "https://github.com/yuqunw/R2R"
+    },
+    "xiao2026retoken":{
+        "title": "ReToken: Improving Long-Context VLMs with Visual Retrieval Token",
+        "author": "<b><u>Yao Xiao</u></b>, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem",
+        "image": "/publications/xiao2026retoken.png",
+        "year": 2026,
+        "tags": ["video", "multimodal"],
+        "highlight": true,
+        "showhome": true,
+        "booktitle": "<b>NeurIPS</b> 2026",
+        "poster": "/publications/xiao2026retoken_poster.pdf",
+        "url": "https://arxiv.org/abs/2607.28627",
+        "code": "https://github.com/avaxiao/ReToken",
+        "webpage": "https://neurips.cc/virtual/2026/loc/atlanta/poster/155661",
+        "tlrd":"Attention tells you where a VLM looks, so shouldn't it tell you which frames matter? It doesn't: the retrieval signal lives in the value space, and a single learned token is enough to read it out."
+    },
+    "xiao2025textregion":{
+        "title": "TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models",
+        "author": "<b><u>Yao Xiao</u></b>, Qiqian Fu, Heyi Tao, Yuqun Wu, Zhen Zhu, Derek Hoiem",
+        "image": "/publications/xiao2025textregion.png",
+        "year": 2025,
+        "poster": "/publications/xiao2025textregion_poster.pdf",
+        "booktitle": "<b>NeurIPS</b> 2026 Journal Track<span style='font-style: normal;'> & </span> <b>TMLR</b> 2025 J2C Certification",
+        "tags": ["multimodal"],
+        "highlight": true,
+        "showhome": true,
+        "url": "https://arxiv.org/abs/2505.23769",
+        "code": "https://github.com/avaxiao/TextRegion",
+        "webpage": "https://neurips.cc/virtual/2026/loc/atlanta/poster/156751",
+        "tlrd":"A simple, training-free approach to get region tokens directly comparable to text embeddings, achieving state-of-the-art zero-shot region-level understanding."
+    },
+    "zhen2025how":{
+        "title": "How to Teach Large Multimodal Models New Skills?",
+        "author": "Zhen Zhu, Yiming Gong, <b><u>Yao Xiao</u></b>, Yaoyao Liu, Derek Hoiem",
+        "image": "/publications/zhen2026how.png",
+        "year": 2026,
+        "booktitle": "<b>ECCV</b> 2026 · <font color=#ff4d88><span style='font-style: normal;'>Spotlight</span></font>",
+        "tags": ["multimodal"],
+        "showhome": true,
+        "url": "https://arxiv.org/abs/2510.08564",
+        "code": "https://github.com/jessemelpolio/LMM_CL",
+        "webpage": "https://eccv.ecva.net/virtual/2026/spotlight/6186"
+    }
+}
